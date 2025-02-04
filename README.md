@@ -12,7 +12,7 @@ Este programa escrito en el lenguaje **Java** sirve para imprimir un 'Hola Mundo
 ## Ramas
 - `main`: Rama principal del proyecto.
 - `ractica4_1`: En esta rama se introdujo la clase para mostrar la **fecha** y **hora.**
-- `Practica4_1B`: En esta ramo se introdujo la clase **Usuario.**
+- `Practica4_1B`: En esta rama se introdujo la clase **Usuario.**
 
 ### Autor
 Práctica creada por Daniel Martínez Todor.
